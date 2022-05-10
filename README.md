@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brendaaguinaga
 - 👀 I’m interested in getting better at coding!
 - 🌱 I’m currently learning python :)
-- 💞️ I’m looking to collaborate on differnet projects!
+- 💞️ I’m looking to collaborate on different projects!
 - 📫 How to reach me: @baguinaga321@gmail.com 
 
 <!---
